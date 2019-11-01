@@ -1,5 +1,5 @@
 # Natours 
-## Source code of first project in ["Advanced CSS and Sass: Flexbox, Grid, Animations and More!" course](https://www.udemy.com/course/advanced-css-and-sass/ Link to the Course on Udemy) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) 
+### Source code of first project in ["Advanced CSS and Sass: Flexbox, Grid, Animations and More!" course](https://www.udemy.com/course/advanced-css-and-sass Link to the Course on Udemy) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann) 
 
 ## Project Overview 
 In this project we have used Sass Css preprocessor and to compile sass(scss) files to css we used node-sass npm module
